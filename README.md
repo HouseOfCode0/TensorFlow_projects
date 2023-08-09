@@ -1,4 +1,4 @@
-# Machine Learning Projects
+# Machine Learning : Tensorflow
 
 Welcome to the repository containing various machine learning projects! This repository includes projects related to image classification, natural language processing (NLP), saving and loading models, and transfer learning using TensorFlow.
 
@@ -6,7 +6,7 @@ Welcome to the repository containing various machine learning projects! This rep
 
 ## Project Descriptions
 
-### [Image Classification](./image_classification)
+### [Image Classification](./image_classification) 
 
 - [mnist.ipynb](./image_classification/mnist.ipynb): Notebook for image classification using the MNIST dataset.
 - [dogs_cats_augmentation.ipynb](./image_classification/with_augmentation/dogs_cats_augmentation.ipynb): Notebook for classifying dogs and cats with data augmentation.
@@ -25,7 +25,7 @@ Welcome to the repository containing various machine learning projects! This rep
 
 ### [Saving Models](./saveModel)
 
-- [aving_and_loading_models.ipynb](./saveModel/l07c01_saving_and_loading_models.ipynb): Notebook demonstrating how to save and load machine learning models.
+- [saving_and_loading_models.ipynb](./saveModel/l07c01_saving_and_loading_models.ipynb): Notebook demonstrating how to save and load machine learning models.
 
 ---
 
