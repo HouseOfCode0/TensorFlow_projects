@@ -18,14 +18,14 @@ Welcome to the repository containing various machine learning projects! This rep
 - [sentiment_analysis.ipynb](./nlp/sentiment_analysis.ipynb): Notebook for sentiment analysis using NLP techniques.
 - [text_generation.ipynb](./nlp/text_generation.ipynb): Notebook for text generation using NLP methods.
 
-### [Saving Models](./saveModel)
-
-- [l07c01_saving_and_loading_models.ipynb](./saveModel/l07c01_saving_and_loading_models.ipynb): Notebook demonstrating how to save and load machine learning models.
-
 ### [Transfer Learning](./transfer_learning)
 
 - [dogs_cats_transfer.ipynb](./transfer_learning/dogs_cats_transfer.ipynb): Notebook demonstrating transfer learning for classifying dogs and cats images.
 - [flowers_transfer.ipynb](./transfer_learning/flowers_transfer.ipynb): Notebook showcasing transfer learning for classifying flowers.
+
+### [Saving Models](./saveModel)
+
+- [aving_and_loading_models.ipynb](./saveModel/l07c01_saving_and_loading_models.ipynb): Notebook demonstrating how to save and load machine learning models.
 
 ---
 
