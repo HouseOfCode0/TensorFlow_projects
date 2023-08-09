@@ -7,7 +7,7 @@ Welcome to the repository containing various machine learning projects! This rep
 ## Project Descriptions
 
 
-<a href="./image_classification" style="color:white; font-size:18px">Image Classification</a>
+### [Image Classification](./image_classification) 
 
 - [mnist.ipynb](./image_classification/mnist.ipynb): Notebook for image classification using the MNIST dataset.
 - [dogs_cats_augmentation.ipynb](./image_classification/with_augmentation/dogs_cats_augmentation.ipynb): Notebook for classifying dogs and cats with data augmentation.
